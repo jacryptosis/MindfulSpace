@@ -1,0 +1,16 @@
+{
+  "name": "mindfulhub",
+  "version": "1.0.0",
+  "description": "MindfulHub is an open-source platform aimed at promoting mental health and well-being by providing resources, tools, and a supportive community for individuals seeking to improve their emotional and psychological well-being.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
